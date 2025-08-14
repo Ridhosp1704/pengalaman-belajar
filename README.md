@@ -1,6 +1,6 @@
 # Pengalaman Belajar di Dicoding
-#### Ridho Syahbana Putra
-#### 054674455
+#### Ridho Syahbana Putra<br> 
+054674455
 
 **14 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
